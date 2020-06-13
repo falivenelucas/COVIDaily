@@ -2,8 +2,8 @@
 The COVIDaily application was develop as part of the final project for the Intermediate Python course for the Ms. Information Security Policy and Managemnt program at Carnegie Mellon University.
 
 # Authors
-Fabio Beltran Bazquez
-Muhammad Bin Oiad
+Fabio Beltran Bazquez <br/>
+Muhammad Bin Oiad <br/>
 Lucas Falivene
 
 # COVIDaily Abstract
